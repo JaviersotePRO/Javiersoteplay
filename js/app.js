@@ -46,3 +46,6 @@ function nextQuestion() {
 function playMusic() {
     document.getElementById("bgMusic").play();
 }
+
+nextQuestion();
+
